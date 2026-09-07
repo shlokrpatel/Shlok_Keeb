@@ -56,4 +56,8 @@ Case
 <img width="2560" height="1392" alt="Screenshot 2026-09-04 221341" src="https://github.com/user-attachments/assets/6ae31bb9-e1e7-4be1-a4b7-dc7245d5ab6a" />
 
 Bill of Materials(BOM)
-
+| 11 | 0.91" OLED Display | 128x32 I2C OLED, GND-VCC-SCL-SDA | 1 | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | 1.09 | https://www.aliexpress.us/item/2251832650376908.html |
+| 12 | EC11 Rotary Encoder | ALPS EC11E compatible, vertical, H20mm | 1 | 0.46 | 0.46 | 1.55 | 0.46 | 0.46 | 1.55 | https://www.alibaba.com/product-detail/EC11-rotary-15-20mm-Meihua-Bing_1600985459709.html |
+| 13 | Key Switches | MX compatible switches, pack of 10 | 7 | 1.00 | 7.00 | 8.55 | 0.14 | 7.00 | 8.55 | https://www.aliexpress.us/item/3256802192387196.html |
+| 14 | SK6812MINI-E | Addressable RGB LED, LCSC C5149201 | 61 | 0.0649 | 3.96 | 12.51 | 0.0649 | 3.96 | 12.51 | https://www.lcsc.com/product-detail/C5149201.html |
+| 15 | 1N4148 Diodes | 1N4148, pack of 100 | 1 | 0.99 | 0.99 | 13.50 | 0.99 | 0.99 | 13.50 | https://www.aliexpress.com/w/wholesale-diode-1n4148.html |
