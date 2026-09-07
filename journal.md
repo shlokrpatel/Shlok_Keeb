@@ -1,3 +1,5 @@
+I moved journal entries to https://lapse.hackclub.com/user/@shlok_r_patel10
+
 ## Entry 1: Schematic & ERC Fixes
 * **Date:** July 11, 2026
 * **Time Spent:** 5.5 hours
